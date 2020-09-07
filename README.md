@@ -4,6 +4,7 @@ Converts Extracted Data Into CSV and Presents it using Pandas and also visualize
 <br />
 Prerequisites To Run This Script:<br />
 Python3+ (https://www.python.org/downloads/)<br />
+pip install requests,bs4,lxml<br />
 Pandas (pip install pandas)<br />
 Matplotlib (pip install matplotlib)<br />
 <br />
